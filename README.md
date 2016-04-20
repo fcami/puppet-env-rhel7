@@ -5,6 +5,8 @@ The third-party Puppet modules are distributed under their original license.
 The MIT license only applies to this README.
 
 basename || original archive                   || license
+
 stdlib   || puppetlabs-stdlib-4.11.0.tar.gz    || ASLv2
+
 chrony   || ringingliberty-chrony-0.2.1.tar.gz || GPLv3
 
