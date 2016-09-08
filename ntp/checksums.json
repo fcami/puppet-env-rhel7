@@ -1,0 +1,16 @@
+{
+  "CHANGELOG.md": "013220416b0fe79648b9113cda7d889b",
+  "LICENSE": "bc2655be219076921f5f9d9ea57bd28b",
+  "README.md": "fd15966fbea07196aec072531c1669b0",
+  "manifests/init.pp": "c7107b14949d02f37846a6cce7d81892",
+  "manifests/params.pp": "d6056549c98b127f595b6e53285b8f68",
+  "metadata.json": "0f8f577d80194d78d8c70c320752f1ab",
+  "templates/chrony.conf-rhel.erb": "97d224e3a8486a6324ee37ca40e78644",
+  "templates/chrony.conf-rhel.orig": "be748b51ff69a262103208cdc14c3c27",
+  "templates/ntp.conf-gentoo.erb": "70fe6f03dabcbaff8a7726d6b0e0bf04",
+  "templates/ntp.conf-gentoo.orig": "dc50e31c2d46104d40c1a494af1f9fc6",
+  "templates/ntp.conf-rhel.erb": "e48c2c8d851a598403784fe243308081",
+  "templates/ntp.conf-rhel.orig": "2ce42df01efc8b1745097faa7b83d9e5",
+  "templates/ntpd-logrotate.erb": "352ee4676f2319b51c8fb7a8c92e10cf",
+  "tests/init.pp": "4cba66973a2111351ace3f9056f77d4d"
+}
