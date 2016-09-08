@@ -103,7 +103,7 @@ class vmwaretools::params {
   }
 
   $manage_repository = $::manage_repository ? {
-    undef   => true,
+    undef   => false,
     default => $::vmwaretools_manage_repository,
   }
   if is_string($manage_repository) {
