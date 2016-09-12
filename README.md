@@ -16,4 +16,6 @@ sitefirewall || danfoster-sitefirewall-0.1.2.tar.gz || ?       ||
 
 firewall     || puppetlabs-firewall-1.8.1.tar.gz    || ASLv2   ||
 
- 
+libvirt      || thias-libvirt-1.0.0.tar.gz          || ASLv2   || 
+
+network      || razorsedge-network-3.8.0.tar.gz     || ASLv2   || required for libvirt bridges
