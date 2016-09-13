@@ -22,5 +22,7 @@ network      || razorsedge-network-3.8.0.tar.gz     || ASLv2   || required for l
 
 selinux      || spiette-selinux-0.5.4.tar.gz        || ASLv2   ||
 
+puppi        || example42-puppi-2.2.1.tar.gz        || ASLv2   ||
+
 timezone     || example42-timezone-2.0.15.tar.gz    || ASLv2   ||
  
