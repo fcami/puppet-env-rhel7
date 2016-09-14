@@ -6,6 +6,8 @@ The MIT license only applies to this README.
 
 basename     || original archive                    || license || notes
 
+elrsyslog    || thias-elrsyslog-1.0.1.tar.gz        || ASLv2   ||
+
 firewall     || puppetlabs-firewall-1.8.1.tar.gz    || ASLv2   ||
 
 libvirt      || thias-libvirt-1.0.0.tar.gz          || ASLv2   || 
@@ -27,4 +29,8 @@ stdlib       || puppetlabs-stdlib-4.11.0.tar.gz     || ASLv2   ||
 timezone     || example42-timezone-2.0.15.tar.gz    || ASLv2   ||
 
 tuned        || thias-tuned-1.0.3.tar.gz            || ASLv2   ||
+
+
+Wishlist: sshd [manage conf + keys], httpd, pagure, (maybe) gitolite3.
+Fixme:    switch sitefirewall to 0 open port and open ports by service.
 

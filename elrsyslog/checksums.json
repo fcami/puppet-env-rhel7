@@ -1,0 +1,13 @@
+{
+  "CHANGELOG.md": "de34e799739e5ee0185c1f26aa5424ad",
+  "LICENSE": "4f84465c5e5adf60f576a075da0c4851",
+  "README.md": "10264e4648a25990ea95700098b78151",
+  "TODO.md": "84c22f1ef2f6d6a7df3fe197bc76b993",
+  "manifests/file.pp": "3eb0103d40900479c7814545e5be8bb1",
+  "manifests/init.pp": "9a908719448dfeafeb3aa105f8d18c2b",
+  "manifests/package.pp": "239dfd996277da118bcdd617785d4c66",
+  "metadata.json": "bbcb8f68a747f6f577a8174e31b16ba7",
+  "templates/rsyslog-el6.conf.orig": "8b91b32300134e98ef4aee632ed61e21",
+  "templates/rsyslog-el7.conf.orig": "0dd94a0c285fb32f41fa5b226e83c26b",
+  "templates/rsyslog.conf.erb": "c6b250c689bf24660c1974e249a80a7b"
+}
