@@ -10,7 +10,7 @@ firewall     || puppetlabs-firewall-1.8.1.tar.gz    || ASLv2   ||
 
 libvirt      || thias-libvirt-1.0.0.tar.gz          || ASLv2   || 
 
-network      || razorsedge-network-3.8.0.tar.gz     || ASLv2   || required for libvirt bridges
+network      || example42-network-3.3.2.tar.gz      || ASLv2   || required for libvirt bridges
 
 ntp          || thias-ntp-1.1.7.tar.gz              || ASLv2   ||
 
