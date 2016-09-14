@@ -23,7 +23,7 @@ class sitefirewall::pre {
   }
   firewall { '003 accept inbound ssh':
     proto  => 'tcp',
-    port   => '22',
+    dport  => '22',
     state  => ['NEW'],
     action => 'accept',
   }
