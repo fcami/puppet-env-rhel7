@@ -14,6 +14,8 @@ network      || example42-network-3.3.2.tar.gz      || ASLv2   || required for l
 
 ntp          || thias-ntp-1.1.7.tar.gz              || ASLv2   ||
 
+postfix      || thias-postfix-0.3.4.tar.gz          || ASLv2   ||
+
 puppi        || example42-puppi-2.2.1.tar.gz        || ASLv2   || load only puppi::params
 
 selinux      || spiette-selinux-0.5.4.tar.gz        || ASLv2   ||
