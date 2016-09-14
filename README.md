@@ -20,7 +20,7 @@ puppi        || example42-puppi-2.2.1.tar.gz        || ASLv2   || load only pupp
 
 selinux      || spiette-selinux-0.5.4.tar.gz        || ASLv2   ||
 
-sitefirewall || danfoster-sitefirewall-0.1.2.tar.gz || ?       ||
+sitefirewall || danfoster-sitefirewall-0.1.2.tar.gz || ?       || changes: DROP=>REJECT, accept ssh by default
 
 stdlib       || puppetlabs-stdlib-4.11.0.tar.gz     || ASLv2   ||
 
