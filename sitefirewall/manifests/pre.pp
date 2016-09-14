@@ -21,5 +21,11 @@ class sitefirewall::pre {
     state  => ['RELATED', 'ESTABLISHED'],
     action => 'accept',
   }
+  firewall { '003 accept inbound ssh':
+    proto  => 'tcp',
+    port   => '22',
+    state  => ['NEW'],
+    action => 'accept',
+  }
 }
 

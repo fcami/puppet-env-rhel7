@@ -2,9 +2,9 @@
 #
 # Default post rules.
 class sitefirewall::post {
-  firewall { '999 drop all':
+  firewall { '999 reject all':
     proto  => 'all',
-    action => 'drop',
+    action => 'reject',
     before => undef,
   }
 }
