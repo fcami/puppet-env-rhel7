@@ -25,4 +25,6 @@ selinux      || spiette-selinux-0.5.4.tar.gz        || ASLv2   ||
 puppi        || example42-puppi-2.2.1.tar.gz        || ASLv2   ||
 
 timezone     || example42-timezone-2.0.15.tar.gz    || ASLv2   ||
- 
+
+tuned        || thias-tuned-1.0.3.tar.gz            || ASLv2   ||
+
